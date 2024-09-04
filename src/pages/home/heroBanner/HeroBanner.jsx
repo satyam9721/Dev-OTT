@@ -39,7 +39,7 @@ const HeroBanner = () => {
             <div className="opacity-layer"></div>
             <ContentWrapper>
                 <div className="heroBannerContent">
-                <span className="title">Techy Satyam OTT Platform</span>
+                <span className="title">Satyam OTT Platform</span>
                     <span className="subTitle">
                         Millions of movies, TV shows and OTT.
                         Explore now.
