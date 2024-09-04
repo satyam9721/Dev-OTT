@@ -1,3 +1,3 @@
 Deployed on Aws =>  
 
-https://master.d2byc97bs939y6.amplifyapp.com/
+https://master.d1717taq9sg48u.amplifyapp.com/
