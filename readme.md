@@ -1,3 +1,3 @@
 Deployed on Aws =>  
 
-https://master.d1717taq9sg48u.amplifyapp.com/
+https://6569910923ead56be689edcc--stately-quokka-c984f0.netlify.app/
